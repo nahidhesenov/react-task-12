@@ -1,0 +1,15 @@
+.cart {
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 15px;
+    width: 30%;
+    transition: 500ms;
+    position: relative;
+}
+
+.cart:hover {
+    box-shadow: 0px 0px 40px rgb(228, 224, 224);
+    cursor: pointer;
+}

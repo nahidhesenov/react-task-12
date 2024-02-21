@@ -1,0 +1,11 @@
+.link {
+    font-size: larger;
+    color: gray;
+    padding: 5px;
+}
+
+.active {
+    color: #5ECE7B;
+    border-block-end: solid;
+    writing-mode: horizontal-tb
+}
